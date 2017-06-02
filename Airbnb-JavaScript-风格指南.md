@@ -4,7 +4,7 @@
 > *一种最合理的使用JavaScript的方式*
 
 ```sh
-
+    
 $ npm i -S stackoverflow
 
 ```
@@ -60,7 +60,7 @@ $ npm i -S stackoverflow
 
 ## 类型
 
-  &lt;a name="types--primitives"&gt;&lt;/a&gt;&lt;a name="1.1"&gt;&lt;/a&gt;
+  <a name="types--primitives"></a><a name="1.1"></a>
   - [1.1](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
 
     + `string`
